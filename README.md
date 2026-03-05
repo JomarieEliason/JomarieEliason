@@ -1,40 +1,37 @@
-# ☁️ Cloud Trails – Jomarie Nacario
+Hi there, I'm Jomarie! 👋
 
-Hi there! I'm Jomarie — a certified AWS Solutions Architect, front-end developer, and tech support enthusiast with a deep passion for lifelong learning and long-distance thru-hikes.
+🚀 U.S. Army Veteran | AWS Solutions Architect | AI Automation Strategist
 
-This repo is my personal hub to:
-- Showcase cloud and full-stack projects 🌐
-- Share notes and reflections from AWS, Azure, and IT support certifications 📚
-- Track my journey through the ever-evolving landscape of tech 🚀
-- Blend the rhythm of trail life with the discipline of continuous learning 🥾
+I am a technical leader who thrives at the intersection of Cloud Infrastructure, Generative AI, and Strategic Sales. My mission is to bridge the gap between complex technical systems and high-growth business outcomes.
 
----
+🛠️ What I'm working with (2026 Suite)
 
-## 🔧 Skills & Tools
-- **Cloud:** AWS (S3, EC2, IAM, Amplify), Azure
-- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion
-- **Backend:** MongoDB, Prisma, NextAuth
-- **Certifications:** AWS SAA, CCP, Google IT Support, Azure Fundamentals
-- **Soft Skills:** Tech support, customer service, troubleshooting, training
+AI & Automation: Expert in the RIGS framework for prompt engineering and "Vibe Coding" for rapid, no-code/low-code internal tool development.
 
----
+Cloud Architecture: AWS Certified Solutions Architect and Cloud Support Associate (2025) with deep experience in Azure Fundamentals.
 
-## 📁 Projects
-Check out `/projects` to see:
-- My cloud resume challenge
-- A full-stack Netflix clone with secure auth
-- A fully responsive portfolio deployed on AWS Amplify
+Sales & Strategy: High-performance background at Apple and Aurakore IT, focusing on technical account management and B2B revenue scaling.
 
----
+Development: Front-End foundations (HTML/CSS/JS) and data intelligence via Gemini and BigQuery.
 
-## 🛤️ Lifelong Learning Log
-Explore `/learning-journal` to follow my progress and discoveries along the tech trail.
+🎖️ The Veteran Advantage
 
----
+My foundation was built in the U.S. Army as a Marine Engineering Specialist. I bring a disciplined, methodical approach to troubleshooting and systems maintenance that ensures 100% reliability in high-stakes, mission-critical environments.
 
-## 🧭 Off the Trail, Still Exploring
-When I’m not debugging code or deploying apps, I’m probably deep in the woods, on a thru-hike, or studying something wildly unrelated to tech.
+📈 Current Focus
 
-Let’s connect:  
-📧 jomarienacario152gmail.com 
-🔗 [LinkedIn](www.linkedin.com/in/j-nacario)
+🤖 Automating sales funnels using custom AI agents.
+
+☁️ Architecting high-availability AWS environments for enterprise scale.
+
+💡 Consulting on AI-readiness for B2B technical teams.
+
+📫 Let's Connect
+
+LinkedIn: [Insert your link]
+
+Portfolio: [Insert your GitHub Pages link]
+
+Email: [Insert your email]
+
+"The Army taught me how to fix it; Apple taught me how to sell the solution; AI allows me to scale it."
