@@ -32,6 +32,6 @@ LinkedIn: [Insert your link]
 
 Portfolio: [Insert your GitHub Pages link]
 
-Email: [jomarienacario15@gmail.com]
+Email: jomarienacario15@gmail.com
 
 "The Army taught me how to fix it; Apple taught me how to sell the solution; AI allows me to scale it."
