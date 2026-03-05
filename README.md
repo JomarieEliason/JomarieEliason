@@ -36,5 +36,5 @@ Explore `/learning-journal` to follow my progress and discoveries along the tech
 When I’m not debugging code or deploying apps, I’m probably deep in the woods, on a thru-hike, or studying something wildly unrelated to tech.
 
 Let’s connect:  
-📧 jomarie-eliason@outlook.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jomarie-eliason)
+📧 jomarienacario152gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/j-nacario)
