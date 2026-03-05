@@ -1,4 +1,4 @@
-# ☁️ Cloud Trails – Jomarie Eliason
+# ☁️ Cloud Trails – Jomarie Nacario
 
 Hi there! I'm Jomarie — a certified AWS Solutions Architect, front-end developer, and tech support enthusiast with a deep passion for lifelong learning and long-distance thru-hikes.
 
