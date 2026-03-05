@@ -28,7 +28,7 @@ My foundation was built in the U.S. Army as a Marine Engineering Specialist. I b
 
 📫 Let's Connect
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/j-nacario/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/j-nacario)
 
 Portfolio: [Github](https://github.com/JomarieNacario/JomarieNacario)
 
