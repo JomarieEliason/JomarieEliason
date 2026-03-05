@@ -30,7 +30,7 @@ My foundation was built in the U.S. Army as a Marine Engineering Specialist. I b
 
 LinkedIn: [Insert your link]
 
-Portfolio: [Insert your GitHub Pages link]
+Portfolio: [Github](https://github.com/JomarieNacario/JomarieNacario)
 
 Email: jomarienacario15@gmail.com
 
