@@ -8,12 +8,9 @@ I am a technical leader who thrives at the intersection of Cloud Infrastructure,
 
 AI & Automation: Expert in the RIGS framework for prompt engineering and "Vibe Coding" for rapid, no-code/low-code internal tool development.
 
-Cloud Architecture: AWS Certified Solutions Architect and Cloud Support Associate (2025) with deep experience in Azure Fundamentals.
+Cloud Architecture: AWS Certified SAA and Cloud Support Associate (2025) with deep experience in Azure Fundamentals.
 
-Sales & Strategy: High-performance background at Apple and Aurakore IT, focusing on technical account management and B2B revenue scaling.
-
-Development: Front-End foundations (HTML/CSS/JS) and data intelligence via Gemini and BigQuery.
-
+Sales & Strategy: High-performance background at Apple and Aurakore IT, focusing on technical account management.
 🎖️ The Veteran Advantage
 
 My foundation was built in the U.S. Army as a Marine Engineering Specialist. I bring a disciplined, methodical approach to troubleshooting and systems maintenance that ensures 100% reliability in high-stakes, mission-critical environments.
